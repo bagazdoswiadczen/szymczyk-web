@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans&subset=latin,latin-ext);
-.dev1, .about p, .projects h1 {
+.dev1, .about p {
   font-size: 40px;
   padding: 150px 220px; }
 
@@ -37,17 +37,16 @@ div {
 h1, h2 {
   text-align: center; }
 
-.about .col-md-12 {
+.about {
   background-color: #42d4f4; }
-
-.about h1 {
-  font-size: 60px;
-  padding: 100px; }
+  .about h1 {
+    font-size: 60px;
+    padding: 100px; }
 
 .projects {
   background-color: #7f898c; }
 
-.row .col-md-12 {
+.row {
   background-color: #42d4f4; }
 
 /*# sourceMappingURL=style.css.map */
