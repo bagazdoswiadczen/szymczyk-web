@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans&subset=latin,latin-ext);
+.dev1, .about p, .projects h1 {
+  font-size: 40px;
+  padding: 150px 220px; }
+
+body {
+  font-family: 'Open Sans'; }
+
+div {
+  margin: 0;
+  padding: 0; }
+
+.section:nth-of-type(1) {
+  background-image: url("https://raw.githubusercontent.com/bagazdoswiadczen/szymczyk-web/master/img/IMG_5884.jpg");
+  margin: 0;
+  width: auto;
+  background-size: cover; }
+
+.section:nth-of-type(2) {
+  background-image: url("https://raw.githubusercontent.com/bagazdoswiadczen/szymczyk-web/master/img/IMG_5885.jpg");
+  margin: 0;
+  width: auto;
+  background-size: cover; }
+
+.section:nth-of-type(3) {
+  background-image: url("https://raw.githubusercontent.com/bagazdoswiadczen/szymczyk-web/master/img/IMG_5886.jpg");
+  margin: 0;
+  width: auto;
+  background-size: cover; }
+
+.section:nth-of-type(4) {
+  background-image: url("https://raw.githubusercontent.com/bagazdoswiadczen/szymczyk-web/master/img/IMG_5887.jpg");
+  margin: 0;
+  width: auto;
+  background-size: cover; }
+
+h1, h2 {
+  text-align: center; }
+
+.about .col-md-12 {
+  background-color: #42d4f4; }
+
+.about h1 {
+  font-size: 60px;
+  padding: 100px; }
+
+.projects {
+  background-color: #7f898c; }
+
+.row .col-md-12 {
+  background-color: #42d4f4; }
+
+/*# sourceMappingURL=style.css.map */
