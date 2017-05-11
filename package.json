@@ -1,0 +1,25 @@
+{
+  "name": "michalszymczyk.pl",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "szymczyk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagazdoswiadczen/szymczyk-web.git"
+  },
+  "author": "Michał Szymczyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bagazdoswiadczen/szymczyk-web/issues"
+  },
+  "homepage": "https://github.com/bagazdoswiadczen/szymczyk-web#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
